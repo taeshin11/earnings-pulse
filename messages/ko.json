@@ -1,0 +1,13 @@
+{
+  "nav": { "home": "홈", "calendar": "캘린더", "stocks": "종목", "sectors": "섹터", "watchlist": "관심종목", "search": "검색" },
+  "hero": { "title": "이번 주 실적 발표 일정", "subtitle": "EPS 예상치, 실적 초과/미달, 섹터별 트렌드를 매일 업데이트", "thisWeek": "이번 주 실적" },
+  "calendar": { "bmo": "장 전 발표", "amc": "장 후 발표", "estimate": "EPS 예상", "actual": "EPS 실제", "surprise": "서프라이즈", "noEarnings": "예정된 실적 없음", "reportTime": "발표 시간", "revenue": "매출 예상" },
+  "ticker": { "nextEarnings": "다음 실적 발표", "beatRate": "초과 달성률", "epsHistory": "EPS 히스토리", "revenueHistory": "매출 히스토리", "beat": "초과", "miss": "미달", "inline": "부합", "upcoming": "예정", "addWatchlist": "관심종목 추가", "removeWatchlist": "관심종목 제거" },
+  "sector": { "beatRate": "초과 달성률", "topBeaters": "상위 초과 종목", "topMissers": "상위 미달 종목", "companiesReporting": "실적 발표 기업" },
+  "watchlist": { "add": "관심종목 추가", "remove": "관심종목 제거", "empty": "관심종목이 없습니다. 종목에서 하트 아이콘을 클릭하세요.", "title": "내 관심종목" },
+  "footer": { "todayVisits": "오늘", "totalVisits": "전체", "copyright": "EarningsPulse — 주식 실적 캘린더", "description": "S&P 500 실적 일정 및 EPS 트래킹" },
+  "common": { "loading": "로딩 중...", "noData": "데이터 없음", "updated": "매일 업데이트", "viewAll": "전체 보기", "sector": "섹터", "marketCap": "시가총액", "filter": "필터", "allSectors": "전체 섹터", "allTimes": "전체 시간", "largeCap": "대형주", "midCap": "중형주", "smallCap": "소형주" },
+  "home": { "thisWeekEarnings": "이번 주 실적 발표 일정", "sectorBeatRates": "섹터별 초과 달성률", "upcomingHighlights": "주요 예정 발표", "faqTitle": "자주 묻는 질문", "faq1Q": "실적 초과란?", "faq1A": "기업이 애널리스트 컨센서스 EPS보다 높은 실적을 발표했을 때를 말합니다.", "faq2Q": "BMO와 AMC란?", "faq2A": "BMO는 장 전 발표, AMC는 장 후 발표를 의미합니다.", "faq3Q": "데이터는 얼마나 자주 업데이트되나요?", "faq3A": "Alpha Vantage 및 Yahoo Finance를 통해 매일 업데이트됩니다.", "faq4Q": "EPS 서프라이즈란?", "faq4A": "발표된 EPS와 애널리스트 예상치의 차이를 백분율로 나타낸 것입니다." },
+  "stocks": { "title": "전체 실적 발표 종목", "subtitle": "S&P 500 기업의 실적 발표 일정 및 초과 달성률 확인", "searchPlaceholder": "티커 또는 기업명 검색..." },
+  "sectors": { "title": "섹터별 실적 초과 달성률", "subtitle": "S&P 500 전 섹터의 실적 초과 달성률 비교", "viewSector": "섹터 보기" }
+}

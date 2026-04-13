@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "home": "Home",
+    "calendar": "Calendar",
+    "stocks": "Stocks",
+    "sectors": "Sectors",
+    "watchlist": "Watchlist",
+    "search": "Search"
+  },
+  "hero": {
+    "title": "Earnings Calendar This Week",
+    "subtitle": "Track EPS estimates, beat/miss rates, and sector earnings trends — updated daily",
+    "thisWeek": "This Week's Earnings"
+  },
+  "calendar": {
+    "bmo": "Before Market Open",
+    "amc": "After Market Close",
+    "estimate": "EPS Est.",
+    "actual": "EPS Actual",
+    "surprise": "Surprise",
+    "noEarnings": "No earnings scheduled",
+    "reportTime": "Report Time",
+    "revenue": "Revenue Est."
+  },
+  "ticker": {
+    "nextEarnings": "Next Earnings",
+    "beatRate": "Beat Rate",
+    "epsHistory": "EPS History",
+    "revenueHistory": "Revenue History",
+    "beat": "Beat",
+    "miss": "Miss",
+    "inline": "In-Line",
+    "upcoming": "Upcoming",
+    "addWatchlist": "Add to Watchlist",
+    "removeWatchlist": "Remove from Watchlist"
+  },
+  "sector": {
+    "beatRate": "Beat Rate",
+    "topBeaters": "Top Beaters",
+    "topMissers": "Top Missers",
+    "companiesReporting": "Companies Reporting"
+  },
+  "watchlist": {
+    "add": "Add to Watchlist",
+    "remove": "Remove from Watchlist",
+    "empty": "Your watchlist is empty. Click the heart icon on any stock to add it.",
+    "title": "My Watchlist"
+  },
+  "footer": {
+    "todayVisits": "Today",
+    "totalVisits": "Total",
+    "copyright": "EarningsPulse — Stock Earnings Calendar",
+    "description": "Track S&P 500 earnings dates, EPS estimates, and beat/miss rates."
+  },
+  "common": {
+    "loading": "Loading...",
+    "noData": "No data available",
+    "updated": "Updated daily",
+    "viewAll": "View All",
+    "sector": "Sector",
+    "marketCap": "Market Cap",
+    "filter": "Filter",
+    "allSectors": "All Sectors",
+    "allTimes": "All Times",
+    "largeCap": "Large Cap",
+    "midCap": "Mid Cap",
+    "smallCap": "Small Cap"
+  },
+  "home": {
+    "thisWeekEarnings": "This Week's Earnings Calendar",
+    "sectorBeatRates": "Sector Beat Rates",
+    "upcomingHighlights": "Upcoming Highlights",
+    "faqTitle": "Frequently Asked Questions",
+    "faq1Q": "What is an earnings beat?",
+    "faq1A": "An earnings beat occurs when a company reports EPS (earnings per share) higher than analyst consensus estimates.",
+    "faq2Q": "What does BMO and AMC mean?",
+    "faq2A": "BMO means Before Market Open — the company reports earnings before the stock market opens. AMC means After Market Close — the company reports after trading ends.",
+    "faq3Q": "How often is this data updated?",
+    "faq3A": "EarningsPulse data is updated daily using multiple data sources including Alpha Vantage and Yahoo Finance.",
+    "faq4Q": "What is EPS surprise?",
+    "faq4A": "EPS surprise is the percentage difference between reported EPS and analyst estimates. A positive surprise means the company beat expectations."
+  },
+  "stocks": {
+    "title": "All Stocks with Earnings",
+    "subtitle": "Browse S&P 500 companies with upcoming earnings dates and historical beat rates",
+    "searchPlaceholder": "Search by ticker or company name..."
+  },
+  "sectors": {
+    "title": "Sector Earnings Beat Rates",
+    "subtitle": "Compare earnings beat rates across all S&P 500 sectors",
+    "viewSector": "View Sector"
+  }
+}

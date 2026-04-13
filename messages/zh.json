@@ -1,0 +1,13 @@
+{
+  "nav": { "home": "首页", "calendar": "日历", "stocks": "股票", "sectors": "板块", "watchlist": "自选股", "search": "搜索" },
+  "hero": { "title": "本周财报日历", "subtitle": "追踪EPS预期、超预期/低于预期及板块趋势，每日更新", "thisWeek": "本周财报" },
+  "calendar": { "bmo": "盘前公布", "amc": "盘后公布", "estimate": "EPS预期", "actual": "EPS实际", "surprise": "超预期幅度", "noEarnings": "暂无财报安排", "reportTime": "公布时间", "revenue": "营收预期" },
+  "ticker": { "nextEarnings": "下次财报", "beatRate": "超预期率", "epsHistory": "EPS历史", "revenueHistory": "营收历史", "beat": "超预期", "miss": "低于预期", "inline": "符合预期", "upcoming": "即将公布", "addWatchlist": "加入自选股", "removeWatchlist": "移出自选股" },
+  "sector": { "beatRate": "超预期率", "topBeaters": "超预期明星", "topMissers": "低于预期", "companiesReporting": "公布财报企业" },
+  "watchlist": { "add": "加入自选股", "remove": "移出自选股", "empty": "自选股为空，点击股票心形图标添加。", "title": "我的自选股" },
+  "footer": { "todayVisits": "今日", "totalVisits": "总计", "copyright": "EarningsPulse — 股票财报日历", "description": "标普500财报日期及EPS追踪" },
+  "common": { "loading": "加载中...", "noData": "暂无数据", "updated": "每日更新", "viewAll": "查看全部", "sector": "板块", "marketCap": "市值", "filter": "筛选", "allSectors": "全部板块", "allTimes": "全部时间", "largeCap": "大盘股", "midCap": "中盘股", "smallCap": "小盘股" },
+  "home": { "thisWeekEarnings": "本周财报日历", "sectorBeatRates": "板块超预期率", "upcomingHighlights": "近期重要财报", "faqTitle": "常见问题", "faq1Q": "什么是财报超预期？", "faq1A": "当公司公布的EPS高于分析师一致预期时，即为超预期。", "faq2Q": "BMO和AMC是什么意思？", "faq2A": "BMO指盘前公布，AMC指盘后公布。", "faq3Q": "数据多久更新一次？", "faq3A": "通过Alpha Vantage和Yahoo Finance每日更新。", "faq4Q": "EPS惊喜是什么？", "faq4A": "实际EPS与分析师预期的百分比差值。" },
+  "stocks": { "title": "全部财报股票", "subtitle": "浏览标普500企业财报日期及历史超预期率", "searchPlaceholder": "按股票代码或公司名称搜索..." },
+  "sectors": { "title": "板块财报超预期率", "subtitle": "比较标普500各板块财报超预期率", "viewSector": "查看板块" }
+}

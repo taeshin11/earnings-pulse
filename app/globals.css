@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f8f9ff;
+  --foreground: #1e1b4b;
+  --accent: #4f46e5;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.shimmer {
+  background: linear-gradient(90deg, #e8eaf6 25%, #c5cae9 50%, #e8eaf6 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}

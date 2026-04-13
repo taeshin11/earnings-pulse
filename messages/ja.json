@@ -1,0 +1,13 @@
+{
+  "nav": { "home": "ホーム", "calendar": "カレンダー", "stocks": "銘柄", "sectors": "セクター", "watchlist": "ウォッチリスト", "search": "検索" },
+  "hero": { "title": "今週の決算カレンダー", "subtitle": "EPS予想、上回り/下回り、セクター別トレンドを毎日更新", "thisWeek": "今週の決算" },
+  "calendar": { "bmo": "寄り前発表", "amc": "引け後発表", "estimate": "EPS予想", "actual": "EPS実績", "surprise": "サプライズ", "noEarnings": "決算予定なし", "reportTime": "発表時間", "revenue": "売上予想" },
+  "ticker": { "nextEarnings": "次回決算", "beatRate": "上回り率", "epsHistory": "EPS履歴", "revenueHistory": "売上履歴", "beat": "上回り", "miss": "下回り", "inline": "一致", "upcoming": "予定", "addWatchlist": "ウォッチリストに追加", "removeWatchlist": "ウォッチリストから削除" },
+  "sector": { "beatRate": "上回り率", "topBeaters": "トップ上回り", "topMissers": "トップ下回り", "companiesReporting": "決算発表企業" },
+  "watchlist": { "add": "ウォッチリストに追加", "remove": "ウォッチリストから削除", "empty": "ウォッチリストは空です。銘柄のハートアイコンをクリックして追加してください。", "title": "マイウォッチリスト" },
+  "footer": { "todayVisits": "本日", "totalVisits": "合計", "copyright": "EarningsPulse — 株式決算カレンダー", "description": "S&P 500決算日程とEPSトラッキング" },
+  "common": { "loading": "読み込み中...", "noData": "データなし", "updated": "毎日更新", "viewAll": "すべて表示", "sector": "セクター", "marketCap": "時価総額", "filter": "フィルター", "allSectors": "全セクター", "allTimes": "全時間", "largeCap": "大型株", "midCap": "中型株", "smallCap": "小型株" },
+  "home": { "thisWeekEarnings": "今週の決算カレンダー", "sectorBeatRates": "セクター別上回り率", "upcomingHighlights": "注目の予定決算", "faqTitle": "よくある質問", "faq1Q": "決算の上回りとは？", "faq1A": "企業がアナリストのコンセンサスEPSより高い業績を報告した場合を指します。", "faq2Q": "BMOとAMCとは？", "faq2A": "BMOは寄り前発表、AMCは引け後発表を意味します。", "faq3Q": "データはどのくらいの頻度で更新されますか？", "faq3A": "Alpha VantageとYahoo Financeを通じて毎日更新されます。", "faq4Q": "EPSサプライズとは？", "faq4A": "報告されたEPSとアナリスト予想の差をパーセントで表したものです。" },
+  "stocks": { "title": "全決算銘柄", "subtitle": "S&P 500企業の決算予定日と上回り率を確認", "searchPlaceholder": "ティッカーまたは企業名で検索..." },
+  "sectors": { "title": "セクター別決算上回り率", "subtitle": "S&P 500全セクターの決算上回り率を比較", "viewSector": "セクターを見る" }
+}

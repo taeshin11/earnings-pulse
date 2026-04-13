@@ -1,0 +1,13 @@
+[
+  { "sector": "Technology", "slug": "technology", "beatRate": 74, "companiesCount": 12, "avgSurprise": 8.2, "topBeaters": ["TXN", "IBM", "AAPL"], "topMissers": ["INTC"] },
+  { "sector": "Healthcare", "slug": "healthcare", "beatRate": 71, "companiesCount": 9, "avgSurprise": 5.8, "topBeaters": ["JNJ", "ABT", "MRK"], "topMissers": ["UNH"] },
+  { "sector": "Financials", "slug": "financials", "beatRate": 82, "companiesCount": 8, "avgSurprise": 11.2, "topBeaters": ["GS", "MS", "JPM"], "topMissers": [] },
+  { "sector": "Communication Services", "slug": "communication-services", "beatRate": 68, "companiesCount": 7, "avgSurprise": 6.9, "topBeaters": ["NFLX", "VZ"], "topMissers": ["GOOGL"] },
+  { "sector": "Consumer Discretionary", "slug": "consumer-discretionary", "beatRate": 55, "companiesCount": 7, "avgSurprise": 3.1, "topBeaters": ["MCD", "SBUX"], "topMissers": ["TSLA", "AMZN"] },
+  { "sector": "Consumer Staples", "slug": "consumer-staples", "beatRate": 65, "companiesCount": 3, "avgSurprise": 4.2, "topBeaters": ["PG", "KO"], "topMissers": [] },
+  { "sector": "Energy", "slug": "energy", "beatRate": 60, "companiesCount": 2, "avgSurprise": 3.7, "topBeaters": ["XOM"], "topMissers": ["CVX"] },
+  { "sector": "Industrials", "slug": "industrials", "beatRate": 70, "companiesCount": 7, "avgSurprise": 9.4, "topBeaters": ["GE", "MMM", "CAT"], "topMissers": ["BA"] },
+  { "sector": "Utilities", "slug": "utilities", "beatRate": 58, "companiesCount": 2, "avgSurprise": 2.1, "topBeaters": ["NEE"], "topMissers": ["DUK"] },
+  { "sector": "Real Estate", "slug": "real-estate", "beatRate": 62, "companiesCount": 0, "avgSurprise": 1.8, "topBeaters": [], "topMissers": [] },
+  { "sector": "Materials", "slug": "materials", "beatRate": 64, "companiesCount": 0, "avgSurprise": 3.5, "topBeaters": [], "topMissers": [] }
+]
