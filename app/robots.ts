@@ -1,15 +1,7 @@
-import type { MetadataRoute } from "next";
-
+import type { MetadataRoute } from 'next';
 export default function robots(): MetadataRoute.Robots {
   return {
-    rules: [
-      {
-        userAgent: "*",
-        allow: "/",
-        disallow: ["/api/"],
-      },
-    ],
-    sitemap: "https://earnings-pulse.vercel.app/sitemap.xml",
-    host: "https://earnings-pulse.vercel.app",
+    rules: [{ userAgent: '*', allow: '/' }],
+    sitemap: 'https://earnings-pulse-iota.vercel.app/sitemap.xml',
   };
 }

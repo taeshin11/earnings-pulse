@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllEarnings, getAllSectors } from "@/lib/data";
 
-const BASE = "https://earnings-pulse.vercel.app";
+const BASE = "https://earnings-pulse-iota.vercel.app";
 const LOCALES = ["en", "ko", "ja", "zh", "es", "fr", "de", "pt"];
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -34,6 +34,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 0.8,
+    });
+    urls.push({
+      url: `${BASE}/${locale}/about`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.6,
+    });
+    urls.push({
+      url: `${BASE}/${locale}/how-to-use`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.6,
+    });
+    urls.push({
+      url: `${BASE}/${locale}/privacy`,
+      lastModified: new Date(),
+      changeFrequency: "yearly",
+      priority: 0.3,
+    });
+    urls.push({
+      url: `${BASE}/${locale}/terms`,
+      lastModified: new Date(),
+      changeFrequency: "yearly",
+      priority: 0.3,
     });
   }
 

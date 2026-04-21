@@ -48,6 +48,23 @@ export default function Footer({ locale = "en" }: { locale?: string }) {
             </div>
           </div>
 
+          {/* Info */}
+          <div>
+            <h3 style={{ fontSize: 13, fontWeight: 600, color: "#e0e7ff", marginBottom: 12, textTransform: "uppercase", letterSpacing: "0.05em" }}>Info</h3>
+            <div style={{ display: "flex", flexDirection: "column", gap: 8 }}>
+              {[
+                { href: `/${locale}/about`, label: "About" },
+                { href: `/${locale}/how-to-use`, label: "How to Use" },
+                { href: `/${locale}/privacy`, label: "Privacy Policy" },
+                { href: `/${locale}/terms`, label: "Terms of Use" },
+              ].map((link) => (
+                <Link key={link.href} href={link.href} style={{ color: "#a5b4fc", textDecoration: "none", fontSize: 14 }}>
+                  {link.label}
+                </Link>
+              ))}
+            </div>
+          </div>
+
           {/* Top Stocks */}
           <div>
             <h3 style={{ fontSize: 13, fontWeight: 600, color: "#e0e7ff", marginBottom: 12, textTransform: "uppercase", letterSpacing: "0.05em" }}>Popular Stocks</h3>

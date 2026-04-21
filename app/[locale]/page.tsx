@@ -8,6 +8,8 @@ import EarningsCalendar from "@/components/EarningsCalendar";
 import BeatRateChart from "@/components/BeatRateChart";
 import SearchBar from "@/components/SearchBar";
 import Link from "next/link";
+import { AdsterraNativeBanner } from '@/components/ads/AdsterraNativeBanner';
+import { AdsterraDisplay } from '@/components/ads/AdsterraDisplay';
 
 export const revalidate = 86400;
 
@@ -213,6 +215,8 @@ export default async function HomePage({
             ))}
           </div>
         </section>
+      <AdsterraNativeBanner />
+      <AdsterraDisplay />
       </main>
       <Footer locale={locale} />
     </>
